@@ -25,9 +25,10 @@
       "plugin": {
         "internalName": "IN.SKSAIKUMAR.APEX.SMARTPASSWORD",
         "type": "item",
-        "demo": "https://oracleapex.com/ords/f?p=151593:1",
+        "demo": "https://oracleapex.com/ords/f?p=151593:26",
         "previewImage": "https://raw.githubusercontent.com/saikumar0003/apex-smart-password-plugin/master/preview.png"
       }
     }
   }
 }
+
