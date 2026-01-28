@@ -23,7 +23,7 @@
     "apex": {
       "versions": ["21.2", "22.1", "23.1", "24.1"],
       "plugin": {
-        "internalName": "SAIKUMAR.RAVADA.SMARTPASSWORD",
+        "internalName": "IN.SKSAIKUMAR.APEX.SMARTPASSWORD",
         "type": "item",
         "demo": "https://oracleapex.com/ords/f?p=151593:1",
         "previewImage": "https://raw.githubusercontent.com/saikumar0003/apex-smart-password-plugin/master/preview.png"
@@ -31,3 +31,4 @@
     }
   }
 }
+
