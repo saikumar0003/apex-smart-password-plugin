@@ -25,9 +25,10 @@
       "plugin": {
         "internalName": "SAIKUMAR.RAVADA.SMARTPASSWORD",
         "type": "item",
-        "demo": "",
+        "demo": "https://oracleapex.com/ords/r/myskapex/testing-application/home",
         "previewImage": "https://raw.githubusercontent.com/saikumar0003/apex-smart-password-plugin/main/preview.png"
       }
     }
   }
 }
+
