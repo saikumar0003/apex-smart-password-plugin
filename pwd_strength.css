@@ -1,0 +1,11 @@
+.pwd-input {
+  padding: 8px;
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.pwd-strength {
+  font-weight: bold;
+  margin-top: 5px;
+}
