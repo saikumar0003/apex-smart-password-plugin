@@ -19,16 +19,15 @@
     "url": "https://github.com/saikumar0003/apex-smart-password-plugin.git"
   },
   "oracle": {
-    "versions": ["11.2.0.4", "12.1.0.2", "19.0.0.0", "21.0.0.0"],
+    "versions": ["11.2.0.4", "12.1.0.2"],
     "apex": {
       "versions": ["21.2", "22.1", "23.1", "24.1"],
       "plugin": {
         "internalName": "SAIKUMAR.RAVADA.SMARTPASSWORD",
         "type": "item",
         "demo": "https://oracleapex.com/ords/f?p=151593:1",
-        "previewImage": "https://raw.githubusercontent.com/saikumar0003/apex-smart-password-plugin/main/preview.png"
+        "previewImage": "https://raw.githubusercontent.com/saikumar0003/apex-smart-password-plugin/master/preview.png"
       }
     }
   }
 }
-
