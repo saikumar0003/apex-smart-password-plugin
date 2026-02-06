@@ -1,11 +1,12 @@
 {
   "name": "SmartPasswordStrength",
   "version": "1.0",
-  "description": "Real-time password strength indicator plugin for Oracle APEX.",
-  "keywords": ["password", "strength", "security", "validation"],
+  "description": "Real-time password strength indicator plugin for Oracle APEX. Provides real-time visual feedback for password strength validation with customizable rules and security criteria.",
+  "keywords": ["password", "strength", "security", "validation", "indicator"],
   "homepage": "https://github.com/saikumar0003/apex-smart-password-plugin",
   "bugs": {
-    "url": "https://github.com/saikumar0003/apex-smart-password-plugin/issues"
+    "url": "https://github.com/saikumar0003/apex-smart-password-plugin/issues",
+    "email": "rsaikumar976@example.com"
   },
   "license": "MIT",
   "commercial": "No",
@@ -19,9 +20,9 @@
     "url": "https://github.com/saikumar0003/apex-smart-password-plugin.git"
   },
   "oracle": {
-    "versions": ["11.2.0.4", "12.1.0.2"],
+    "versions": ["11.2.0.4", "12.1.0.2", "12.2.0.1"],
     "apex": {
-      "versions": ["21.2", "22.1", "23.1", "24.1"],
+      "versions": ["21.2", "22.1", "23.1", "24.1", "24.2"],
       "plugin": {
         "internalName": "IN.SKSAIKUMAR.APEX.SMARTPASSWORD",
         "type": "item",
