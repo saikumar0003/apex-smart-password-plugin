@@ -99,8 +99,8 @@ Contains styling for the strength indicator and visual feedback elements
 
 For bug reports, feature requests, and general support:
 - **GitHub Issues**: https://github.com/saikumar0003/apex-smart-password-plugin/issues
-- **Email**: rsaikumar976@example.com
-
+- **Email**:  skapexdev003@gmail.com
+  
 Please provide detailed information including:
 - APEX version
 - Browser and version
@@ -121,7 +121,7 @@ You are free to use, modify, and distribute this plugin in both commercial and n
 ## 👤 Author
 
 **Saikumar Ravada**
-- Email: rsaikumar976@example.com
+- Email: skapexdev003@gmail.com
 - GitHub: https://github.com/saikumar0003
 - Profile: Full-stack Oracle APEX developer specializing in plugin development and security enhancements
 
@@ -154,7 +154,7 @@ apex-smart-password-plugin/
 
 For questions or additional information:
 - Open an issue on GitHub
-- Email: rsaikumar976@example.com
+- Email: skapexdev003@gmail.com
 - Check existing issues for solutions
 
 ---
